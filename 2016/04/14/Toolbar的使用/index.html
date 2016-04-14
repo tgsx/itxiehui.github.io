@@ -13,7 +13,7 @@
 <meta property="og:site_name" content="IT协会知识库">
 <meta property="og:description" content="简介Toolbar是Google推出的用来替代Actionbar的一个控件，Toolbar相比于Actionbar也更加的灵活，开发者可以自定义图标，logo等，接下来就介绍一下Toolbar的用法">
 <meta property="og:image" content="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png">
-<meta property="og:updated_time" content="2016-04-14T09:10:29.864Z">
+<meta property="og:updated_time" content="2016-04-14T09:11:15.328Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Toolbar的使用">
 <meta name="twitter:description" content="简介Toolbar是Google推出的用来替代Actionbar的一个控件，Toolbar相比于Actionbar也更加的灵活，开发者可以自定义图标，logo等，接下来就介绍一下Toolbar的用法">
@@ -246,8 +246,8 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><pre><code>Toolbar是Google推出的用来替代Actionbar的一个控件，Toolbar相比于Actionbar也更加的灵活，开发者可以自定义图标，logo等，接下来就介绍一下Toolbar的用法
-</code></pre><a id="more"></a>
+        <h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>Toolbar是Google推出的用来替代Actionbar的一个控件，Toolbar相比于Actionbar也更加的灵活，开发者可以自定义图标，logo等，接下来就介绍一下Toolbar的用法</p>
+<a id="more"></a>
 <h3 id="新增Style样式"><a href="#新增Style样式" class="headerlink" title="新增Style样式"></a>新增Style样式</h3><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">&lt;style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar"&gt;</span><br><span class="line">         Customize your theme here.</span><br><span class="line">        &lt;item name="colorPrimary"&gt;@color/colorPrimary&lt;/item&gt;</span><br><span class="line">        &lt;item name="colorPrimaryDark"&gt;@color/colorPrimaryDark&lt;/item&gt;</span><br><span class="line">        &lt;item name="colorAccent"&gt;@color/colorAccent&lt;/item&gt;</span><br><span class="line">        &lt;item name="android:actionOverflowButtonStyle"&gt;@style/overflowButton&lt;/item&gt;</span><br><span class="line">&lt;/style&gt;</span><br><span class="line">&lt;style name="AppTheme.NoActionBar"&gt;</span><br><span class="line">        &lt;item name="windowActionBar"&gt;false&lt;/item&gt;</span><br><span class="line">        &lt;item name="windowNoTitle"&gt;true&lt;/item&gt;</span><br><span class="line">&lt;/style&gt;</span><br></pre></td></tr></table></figure>
 <p>这些样式一般在Android Studio是自动生成，可不修改，但是假如要修改overflowButton的图标，就需要在此处修改，在接下来的overflow修改中将会介绍。</p>
 <h3 id="XML布局中新增Toolbar"><a href="#XML布局中新增Toolbar" class="headerlink" title="XML布局中新增Toolbar"></a>XML布局中新增Toolbar</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&lt;android.support.v7.widget.Toolbar android:id=<span class="string">"@+id/toolbar"</span></span><br><span class="line">            android:layout_width=<span class="string">"match_parent"</span> </span><br><span class="line">            android:layout_height=<span class="string">"48dp"</span></span><br><span class="line">            android:background=<span class="string">"?attr/colorPrimary"</span> 											app:popupTheme=<span class="string">"@style/AppTheme.PopupOverlay"</span> /&gt;</span><br></pre></td></tr></table></figure>

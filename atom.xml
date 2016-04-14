@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://itxiehui.github.io/"/>
-  <updated>2016-04-14T09:01:04.696Z</updated>
+  <updated>2016-04-12T12:42:25.021Z</updated>
   <id>http://itxiehui.github.io/</id>
   
   <author>
@@ -14,31 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Toolbar</title>
-    <link href="http://itxiehui.github.io/2016/04/14/Toolbar/"/>
-    <id>http://itxiehui.github.io/2016/04/14/Toolbar/</id>
-    <published>2016-04-14T09:01:04.000Z</published>
-    <updated>2016-04-14T09:01:04.696Z</updated>
-    
-    <content type="html">&lt;p&gt;//TODO 摘要&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;p&gt;//TODO 正文&lt;/p&gt;
-&lt;hr&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;span style=&quot;font-size:12px&quot;&gt;本文标题: &lt;a href=&quot;http://itxiehui.github.io/2016/04/14/Toolbar/&quot;&gt;Toolbar&lt;/a&gt;&lt;br&gt;文章作者: &lt;a href=&quot;http://itxiehui.github.io/&quot;&gt;IT协会知识库&lt;/a&gt;&lt;br&gt;许可协议: &lt;img alt=&quot;知识共享许可协议&quot; style=&quot;border-width:0&quot; src=&quot;https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;http://creativecommons.org/licenses/by-nc-sa/4.0/&quot; target=&quot;_blank&quot;&gt;©署名-非商用-相同方式共享 4.0&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;//TODO 摘要&lt;/p&gt;
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>计算机是如何存储数据的？（二）</title>

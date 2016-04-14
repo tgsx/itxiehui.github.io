@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://itxiehui.github.io/"/>
-  <updated>2016-04-14T09:11:15.328Z</updated>
+  <updated>2016-04-14T16:40:01.232Z</updated>
   <id>http://itxiehui.github.io/</id>
   
   <author>
@@ -14,6 +14,184 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Dog and Programming</title>
+    <link href="http://itxiehui.github.io/2016/04/15/Dog-and-Programming/"/>
+    <id>http://itxiehui.github.io/2016/04/15/Dog-and-Programming/</id>
+    <published>2016-04-14T16:38:56.000Z</published>
+    <updated>2016-04-14T16:40:01.232Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;Dog&quot;&gt;&lt;a href=&quot;#Dog&quot; class=&quot;headerlink&quot; title=&quot;Dog&quot;&gt;&lt;/a&gt;Dog&lt;/h2&gt;&lt;p&gt;几乎所有的 programming dog 都是 single dog [\坏笑] —— 杨世彬&lt;br&gt;为什么会有 programming dog？因为有 programme（废话）Why？&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;p&gt;###（1）编程是怎么样的？&lt;/p&gt;
+&lt;p&gt;人们想象的编程&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://7xsf09.com1.z0.glb.clouddn.com/111111111.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;实际上的编程&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://7xsf09.com1.z0.glb.clouddn.com/22222222222.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;但是这种像 dog 一样的生活，为何 programming dog 还要 programming！！！（估计是智障）&lt;/p&gt;
+&lt;h3 id=&quot;（2）编程可以干什么？&quot;&gt;&lt;a href=&quot;#（2）编程可以干什么？&quot; class=&quot;headerlink&quot; title=&quot;（2）编程可以干什么？&quot;&gt;&lt;/a&gt;（2）编程可以干什么？&lt;/h3&gt;&lt;p&gt;是什么在让 programming dog 喜欢上 dog 那样的生活&lt;br&gt;我们先看看这群 dog 用电脑干些什么坏事 [\坏笑]&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://7xsf09.com1.z0.glb.clouddn.com/33333333333333.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;这么枯燥的代码 有意思吗？。。。 [\鄙视]&lt;/p&gt;
+&lt;p&gt;键盘卡拉卡拉。。。12 小时后&lt;/p&gt;
+&lt;p&gt;amazing，贪食蛇耶 [\惊讶]&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://7xsf09.com1.z0.glb.clouddn.com/4444444444444.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;就最近来说，高级的程序就是阿法狗了&lt;br&gt;阿法狗其中最牛的一点就是可以像人一样&lt;br&gt;向外界学习:机器学习&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://7xsf09.com1.z0.glb.clouddn.com/555555555.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;loving dog 看到的一个个美妙的 program，其实都是 programming dog 用键盘一个一个代码敲出来的。&lt;/p&gt;
+&lt;p&gt;而 programming dog 忍受着寂寞（ 所以几 乎所有的programming dog 都成了 single dog[\哈哈哈哈哈哈哈哈哈哈哈哈]），踏踏实实的把脑海里的想法变成实际的 program， 感觉这世界就是自己的 [\说得跟真的一样]&lt;/p&gt;
+&lt;p&gt;所以，我想，“它们”programming 的理由之一就是 curiosity&lt;/p&gt;
+&lt;h2 id=&quot;Programming&quot;&gt;&lt;a href=&quot;#Programming&quot; class=&quot;headerlink&quot; title=&quot;Programming&quot;&gt;&lt;/a&gt;Programming&lt;/h2&gt;&lt;p&gt;既然编程可以产生这么多美妙的程序，那就一起来学编程吧&lt;br&gt;了解下基本的概念&lt;/p&gt;
+&lt;h3 id=&quot;1、编写程序（programming）&quot;&gt;&lt;a href=&quot;#1、编写程序（programming）&quot; class=&quot;headerlink&quot; title=&quot;1、编写程序（programming）&quot;&gt;&lt;/a&gt;1、编写程序（programming）&lt;/h3&gt;&lt;p&gt;是工程师（dog）为了让计算机（computer）解决（solve）某个问题&lt;br&gt;（problem），而用某种程序设 计语言（language）编写代码（code），&lt;br&gt;得到程序（program）的过程。&lt;br&gt;大概就是一个公式：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Programming = dog + computer + code&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;程序狗和计算机之间交流的过程就是编程（代码产生的过程）&lt;/p&gt;
+&lt;h3 id=&quot;2、编程语言（programming-language）&quot;&gt;&lt;a href=&quot;#2、编程语言（programming-language）&quot; class=&quot;headerlink&quot; title=&quot;2、编程语言（programming language）&quot;&gt;&lt;/a&gt;2、编程语言（programming language）&lt;/h3&gt;&lt;p&gt;是用来定义计算机程序的形式语言。它是一种被标准化的交流技巧，用&lt;br&gt;来向计算机发出指令。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;程序狗和计算机之间交流的工具就是编程语言（代码遵循的规范）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;3、程序（program）&quot;&gt;&lt;a href=&quot;#3、程序（program）&quot; class=&quot;headerlink&quot; title=&quot;3、程序（program）&quot;&gt;&lt;/a&gt;3、程序（program）&lt;/h3&gt;&lt;p&gt;是为了得到某种结果而可以由计算机等具有信息处理能力的装置执行的&lt;br&gt;代码化指令序列，或者可以被自动转换成代码化指令序列的符号化指令&lt;br&gt;序列或者符号化语句序列。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;程序狗的作品就是程序（代码生成的作品）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;http://7xsf09.com1.z0.glb.clouddn.com/6666666666666.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;编程语言的发展史&quot;&gt;&lt;a href=&quot;#编程语言的发展史&quot; class=&quot;headerlink&quot; title=&quot;编程语言的发展史&quot;&gt;&lt;/a&gt;编程语言的发展史&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;机器语言 –&amp;gt; 汇编语言 –&amp;gt; 高级语言&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&quot;1、机器语言&quot;&gt;&lt;a href=&quot;#1、机器语言&quot; class=&quot;headerlink&quot; title=&quot;1、机器语言&quot;&gt;&lt;/a&gt;1、机器语言&lt;/h4&gt;&lt;p&gt;计算机内部只能接受二进制码，因此，用二进制码 0 和 1 描述的指令称为机&lt;br&gt;器指令，全体机器指令的集合构成计算机的机器语言&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;0 和 1（插入：多媒体数据在计算机内部是什么）&lt;/em&gt;&lt;/p&gt;
+&lt;h4 id=&quot;2、汇编语言&quot;&gt;&lt;a href=&quot;#2、汇编语言&quot; class=&quot;headerlink&quot; title=&quot;2、汇编语言&quot;&gt;&lt;/a&gt;2、汇编语言&lt;/h4&gt;&lt;p&gt;为了解决使用机器语言编写应用程序所带来的一系列问题，人们首先想到使&lt;br&gt;用助记符号来代替不容易记忆的机器指令，称为符号语言，也称汇编语言。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;助记符号&lt;/em&gt;&lt;/p&gt;
+&lt;h4 id=&quot;3、高级语言&quot;&gt;&lt;a href=&quot;#3、高级语言&quot; class=&quot;headerlink&quot; title=&quot;3、高级语言&quot;&gt;&lt;/a&gt;3、高级语言&lt;/h4&gt;&lt;p&gt;高级语言是一类接近于人类的自然语言和数学语言的程序设计语言的统称。&lt;br&gt;按照其程序设计的出发点和方式不同，高级语言分为了面向过程的语言和面&lt;br&gt;向对象的语言（细分的话还有一种：基于对象的语言）&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;高级的语言 [\尴尬]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;了解了这些基本概念，你离狗只差一步了，哈哈哈。。。&lt;/p&gt;
+&lt;p&gt;接下来，你可以从事Web 前端、后台、移动、系统、等等开发。但是，不论最什么，不可或缺的是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;basic（插入：个人经历）&lt;/li&gt;
+&lt;li&gt;patience（插入：个人经历）&lt;/li&gt;
+&lt;li&gt;discussion（插入：加入 IT 好处之一）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;“ 该学的时候往死里学，该玩的时候往死里玩 ”&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;恭喜你成为一条“狗”&quot;&gt;&lt;a href=&quot;#恭喜你成为一条“狗”&quot; class=&quot;headerlink&quot; title=&quot;恭喜你成为一条“狗”&quot;&gt;&lt;/a&gt;恭喜你成为一条“狗”&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://7xsf09.com1.z0.glb.clouddn.com/7777777777777.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span style=&quot;font-size:12px&quot;&gt;本文标题: &lt;a href=&quot;http://itxiehui.github.io/2016/04/15/Dog-and-Programming/&quot;&gt;Dog and Programming&lt;/a&gt;&lt;br&gt;文章作者: &lt;a href=&quot;http://itxiehui.github.io/&quot;&gt;IT协会知识库&lt;/a&gt;&lt;br&gt;许可协议: &lt;img alt=&quot;知识共享许可协议&quot; style=&quot;border-width:0&quot; src=&quot;https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;http://creativecommons.org/licenses/by-nc-sa/4.0/&quot; target=&quot;_blank&quot;&gt;©署名-非商用-相同方式共享 4.0&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Dog&quot;&gt;&lt;a href=&quot;#Dog&quot; class=&quot;headerlink&quot; title=&quot;Dog&quot;&gt;&lt;/a&gt;Dog&lt;/h2&gt;&lt;p&gt;几乎所有的 programming dog 都是 single dog [\坏笑] —— 杨世彬&lt;br&gt;为什么会有 programming dog？因为有 programme（废话）Why？&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="网编" scheme="http://itxiehui.github.io/tags/%E7%BD%91%E7%BC%96/"/>
+    
+      <category term="周四分享" scheme="http://itxiehui.github.io/tags/%E5%91%A8%E5%9B%9B%E5%88%86%E4%BA%AB/"/>
+    
+      <category term="编程" scheme="http://itxiehui.github.io/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>信息加密的历史和基本原理</title>
+    <link href="http://itxiehui.github.io/2016/04/15/%E4%BF%A1%E6%81%AF%E5%8A%A0%E5%AF%86%E7%9A%84%E5%8E%86%E5%8F%B2%E5%92%8C%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/"/>
+    <id>http://itxiehui.github.io/2016/04/15/信息加密的历史和基本原理/</id>
+    <published>2016-04-14T16:07:34.000Z</published>
+    <updated>2016-04-14T16:16:22.289Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;对称加密&quot;&gt;&lt;a href=&quot;#对称加密&quot; class=&quot;headerlink&quot; title=&quot;对称加密&quot;&gt;&lt;/a&gt;对称加密&lt;/h2&gt;&lt;p&gt;现在我们计算机的加密算法最早起源于美国政府计算机安全需求，美国国家标准局在1972年开始在民间寻求用于政府内非机密敏感性的文件的加密标准。但是第一次征集失败，在1974年开始第二次征集，在这次征集中，IBM公司提交了他们在1973-1974年发展的算法，这个算法被有【选择性】的接受了。这就是我们现代计算机加密技术的起源。这个加密算法就是&lt;strong&gt;DES&lt;/strong&gt;。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;加解密的具体运作由两部分决定：一个是算法，另一个是密钥。&lt;/strong&gt;密钥是一个用于加解密算法的秘密参数，通常只有通讯者拥有。简单来说，可以把算法理解成一把锁，而密钥就是解锁的钥匙。谁有了钥匙，谁就可以解锁，进入房间，获取所需的信息。&lt;/p&gt;
+&lt;p&gt;DES是一个【对称加密算法】。即秘钥既能用于加密，也能用于解密。秘钥是自定义的，因此只有双方都持有这个秘钥时才能相互看懂对方在发送什么。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;优点：速度快，延迟小，数据占用率高。&lt;br&gt;缺点：容易被暴力破解。如果使用的基数过大，秘钥基数会很大，因为两两之间的秘钥不能相同。安全性较差，如果秘钥中途被劫持，数据就会被他人获取。且容易被伪造。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;非对称加密&quot;&gt;&lt;a href=&quot;#非对称加密&quot; class=&quot;headerlink&quot; title=&quot;非对称加密&quot;&gt;&lt;/a&gt;非对称加密&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;秘钥分为公钥（发送出去给别人使用）和私钥（留给自己使用，不发送出去）两种。&lt;/strong&gt;知道其中一个，不能猜出另外一个，私钥可以解密公钥，公钥也可以解密私钥。若A和B通讯要使用非对称加密，A和B都会把自己的公钥发给对方。假设现在A发送信息给B。那么A就会用B的公钥为信息进行加密。然后发送给B。B收到A发送过来的信息，就使用自己的私有进行解密。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;总结就是：使用对方的公钥来加密数据，使用自己的私钥来解密。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;数字签名&quot;&gt;&lt;a href=&quot;#数字签名&quot; class=&quot;headerlink&quot; title=&quot;数字签名&quot;&gt;&lt;/a&gt;数字签名&lt;/h2&gt;&lt;p&gt;例如我们的身份证，只不过不是实体，而且一种确认你身份的凭证，通过公钥来确认这个身份是不是本人。非对称加密通常跟数字签名一同使用。&lt;/p&gt;
+&lt;p&gt;例子：A要发送一个数据给BA先用哈希算法（统称：理解为某种函数）把自己的数据哈希（函数）出一个摘要信息（散列：一些由数字和字母组合的序列）。 然后用自己（A）的私钥加密（只有A的公钥可以解）这个摘要信息，然后使用B的公钥加密（只有B的私钥可以解）数据本身。然后把 摘要信息 和 数据本身 一起发送给B 。B收到这个数据包后，使用A的公钥解密摘要信息，得到A发送过来的摘要信息。 然后用自己的私钥解密数据本身。然后通过相同的哈希函数去运算这个数据本身，得出另一个摘要信息，如果两个摘要信息相同，则说明这个信息安全，没有被修改。否则则说明这个信息被修改过。&lt;/p&gt;
+&lt;p&gt;数字签名：防伪，防抵赖。因为是用A的公钥解密出摘要信息，肯定是A发的。因为公钥、私钥都是只能解密自己的私钥公钥。如果解不出摘要信息是无法读出信息的。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;优点： 较安全，防抵赖。&lt;br&gt;缺点：加密数据占较多数据，延迟较高。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span style=&quot;font-size:12px&quot;&gt;本文标题: &lt;a href=&quot;http://itxiehui.github.io/2016/04/15/信息加密的历史和基本原理/&quot;&gt;信息加密的历史和基本原理&lt;/a&gt;&lt;br&gt;文章作者: &lt;a href=&quot;http://itxiehui.github.io/&quot;&gt;张贯求&lt;/a&gt;&lt;br&gt;许可协议: &lt;img alt=&quot;知识共享许可协议&quot; style=&quot;border-width:0&quot; src=&quot;https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;http://creativecommons.org/licenses/by-nc-sa/4.0/&quot; target=&quot;_blank&quot;&gt;©署名-非商用-相同方式共享 4.0&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;对称加密&quot;&gt;&lt;a href=&quot;#对称加密&quot; class=&quot;headerlink&quot; title=&quot;对称加密&quot;&gt;&lt;/a&gt;对称加密&lt;/h2&gt;&lt;p&gt;现在我们计算机的加密算法最早起源于美国政府计算机安全需求，美国国家标准局在1972年开始在民间寻求用于政府内非机密敏感性的文件的加密标准。但是第一次征集失败，在1974年开始第二次征集，在这次征集中，IBM公司提交了他们在1973-1974年发展的算法，这个算法被有【选择性】的接受了。这就是我们现代计算机加密技术的起源。这个加密算法就是&lt;strong&gt;DES&lt;/strong&gt;。&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="周四分享" scheme="http://itxiehui.github.io/tags/%E5%91%A8%E5%9B%9B%E5%88%86%E4%BA%AB/"/>
+    
+      <category term="网络" scheme="http://itxiehui.github.io/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+      <category term="密码学" scheme="http://itxiehui.github.io/tags/%E5%AF%86%E7%A0%81%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>H5的前世今生</title>
+    <link href="http://itxiehui.github.io/2016/04/15/H5%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F/"/>
+    <id>http://itxiehui.github.io/2016/04/15/H5的前世今生/</id>
+    <published>2016-04-14T16:00:09.000Z</published>
+    <updated>2016-04-14T16:16:30.456Z</updated>
+    
+    <content type="html">&lt;p&gt;可能有人接触过HTML，但我相信大部分的人可能只是听说过HTML，但是却不知道它是干嘛的。甚至有些人可能连它的名字都没有听说过。而我接下来的演讲就是关于HTML５，我在网上收集并整理了一份关于HTML５的资料，希望能让大家对HTML５有一种更全面，更具体的了解。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;首先，我们来说说什么是HTML&quot;&gt;&lt;a href=&quot;#首先，我们来说说什么是HTML&quot; class=&quot;headerlink&quot; title=&quot;首先，我们来说说什么是HTML&quot;&gt;&lt;/a&gt;首先，我们来说说什么是HTML&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;HTML是一种用于创建网页的标准标记语言。简单来说，就是创建网站的一门语言。主要通过使用javascript和css修饰，使我们的网页具有动态和更完美的外观。　&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;HTML元素是组成一个网站的基础元素，它允许嵌入图像与对象，并且可以用于创建交互式表单，它被用来结构化信息——例如标题、段落和列表等等。 &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;我们可以通过使用javascript和css修饰，使我们的网页具有动态和更完美的外观。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;HTML文件经过浏览器的渲染，就可以成为现在我们可以在网上看到的网站的基本页面了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;然后是XHTML的诞生&quot;&gt;&lt;a href=&quot;#然后是XHTML的诞生&quot; class=&quot;headerlink&quot; title=&quot;然后是XHTML的诞生&quot;&gt;&lt;/a&gt;然后是XHTML的诞生&lt;/h2&gt;&lt;p&gt;因为HTNL的语法比较松散，对于计算机来说，处理起来比较困难，虽然说XML可以取代HTML，但是又因为现在很多网站的构建都是基于HTML的，所以想要让XML取代HTML，需要一个过渡的时期。所以XHTML就应运而生了，它结合了HTML4.0和XML，使XHTML既有HTMl的特征，也有XML的严格语法规则。&lt;/p&gt;
+&lt;h2 id=&quot;还有，HTML5的崛起&quot;&gt;&lt;a href=&quot;#还有，HTML5的崛起&quot; class=&quot;headerlink&quot; title=&quot;还有，HTML5的崛起&quot;&gt;&lt;/a&gt;还有，HTML5的崛起&lt;/h2&gt;&lt;p&gt;其实，在XHTML发展的时候，HTML5就已经诞生了，因为它面向更多的是新的浏览器版本，所以没有走上主流。然而当XHTML发展到2.0版本的时候，XHTML只是更加注重语法的规范性，没有太多的改进。而且时代在发展，用新式浏览器的用户也越来越多，还有移动端的浏览器也在发展，HTMl5这些年也一直在发展，它有出色的交互性、本地存储等等先进的技术，所以HTML5逐渐走上了主流，HTML5崛起的号角响起。&lt;/p&gt;
+&lt;h2 id=&quot;接下来，谈谈我们的主角——HTML5&quot;&gt;&lt;a href=&quot;#接下来，谈谈我们的主角——HTML5&quot; class=&quot;headerlink&quot; title=&quot;接下来，谈谈我们的主角——HTML5&quot;&gt;&lt;/a&gt;接下来，谈谈我们的主角——HTML5&lt;/h2&gt;&lt;p&gt;通过上面对HTML和XHTML的认识，我们可以更容易理解HTML5了，它与前两者有很多相似之处，但是HTML5更出色，它添加了更多有用的功能，我们可以通过下面对H5和H4的区别和H5的特性来更深入地了解一下HTML5.&lt;/p&gt;
+&lt;h2 id=&quot;HTML5与HTML4的区别&quot;&gt;&lt;a href=&quot;#HTML5与HTML4的区别&quot; class=&quot;headerlink&quot; title=&quot;HTML5与HTML4的区别&quot;&gt;&lt;/a&gt;HTML5与HTML4的区别&lt;/h2&gt;&lt;h3 id=&quot;1、简化的头部语法声明&quot;&gt;&lt;a href=&quot;#1、简化的头部语法声明&quot; class=&quot;headerlink&quot; title=&quot;1、简化的头部语法声明&quot;&gt;&lt;/a&gt;1、简化的头部语法声明&lt;/h3&gt;&lt;p&gt;为什么说这样子说呢？因为现在HTML5的头部声明不需要像以前HTMl4或者XHTML的头部声明一样繁琐了，现在它只需要&amp;lt;!DOCTYPE html&amp;gt;就可以了，是不是简单了很多？&lt;/p&gt;
+&lt;h3 id=&quot;2-逐步取代flash&quot;&gt;&lt;a href=&quot;#2-逐步取代flash&quot; class=&quot;headerlink&quot; title=&quot;2. 逐步取代flash&quot;&gt;&lt;/a&gt;2. 逐步取代flash&lt;/h3&gt;&lt;p&gt;因为html5的出色交互性，结合css3和JavaScript，就能够做出很好的页面动态效果，比flash更简单，更快，而不像以前用flash那样子需要加载很长的时间。&lt;/p&gt;
+&lt;h3 id=&quot;3-新的-“audio”-和-“video”-标记&quot;&gt;&lt;a href=&quot;#3-新的-“audio”-和-“video”-标记&quot; class=&quot;headerlink&quot; title=&quot;3. 新的 “audio” 和 “video” 标记&quot;&gt;&lt;/a&gt;3. 新的 “audio” 和 “video” 标记&lt;/h3&gt;&lt;p&gt;这两个新的标签是用来嵌入音频和视频文件的，这可以说是HTML5的一大亮点，因为有了它们，再结合一些html5的相关技术，我们不再需要安装各种插件才能在浏览器上播放动画了。是不是突然感觉到HTMl5的伟大了？我们再也不用为了各种插件而烦恼了。&lt;/p&gt;
+&lt;h3 id=&quot;4、HTML5的语义化标签&quot;&gt;&lt;a href=&quot;#4、HTML5的语义化标签&quot; class=&quot;headerlink&quot; title=&quot;4、HTML5的语义化标签&quot;&gt;&lt;/a&gt;4、HTML5的语义化标签&lt;/h3&gt;&lt;p&gt;我们在用HTML4或者XHTML的时候，整个页面的布局基本上都是靠div来构建的，虽然它可以用class选择器来命名，让我们知道html的代码布局，但是相比于html5的语义化标签，html的class命名真是太弱了，html5提供了header、nav、aside、footer等语义化标签。这些语义化标签使我们的页面更规范，更利于开发人员的维护和搜索引擎的抓取。  &lt;/p&gt;
+&lt;h3 id=&quot;5、html5的向后兼容性&quot;&gt;&lt;a href=&quot;#5、html5的向后兼容性&quot; class=&quot;headerlink&quot; title=&quot;5、html5的向后兼容性&quot;&gt;&lt;/a&gt;5、html5的向后兼容性&lt;/h3&gt;&lt;p&gt;可能对html有过了解的人，都会想到一个问题，那就是浏览器的兼容性问题。是的没错，接下来我们就针对这个问题来讲一下。因为html5开发发展的时候就考虑过这个问题，所以我们不需要担心，html5为什么能走上主流？它的向后兼容性也是一大助力，因为它能够兼容html4和xhtml1.0的所有的有效的标签元素，而且因为很多新式浏览器（包括IE9及其以上版本）都兼容h5的新元素。&lt;/p&gt;
+&lt;p&gt;那么问题来了，如果是IE8及其以前的版本呢？哈哈，不用担心这个问题，既然有问题，就会有解决的方法。我们可以使用Google的html5shiv包：&lt;/p&gt;
+&lt;figure class=&quot;highlight html&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;&amp;lt;!--[if lt IE9]&amp;gt; &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;lt;script src=&quot;http://html5shiv.googlecode.com/svn/trunk/html5.js&quot;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;lt;![endif]--&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;就可以解决这个问题了，真是感谢各位技术大牛，给我们排忧解难，哈哈。&lt;/p&gt;
+&lt;h3 id=&quot;6、更多&quot;&gt;&lt;a href=&quot;#6、更多&quot; class=&quot;headerlink&quot; title=&quot;6、更多&quot;&gt;&lt;/a&gt;6、更多&lt;/h3&gt;&lt;p&gt;html5的优点不仅仅只有这些，还有很多，在这里就不一一列举了，大家有兴趣的话可以自己到网上详细了解一下。&lt;/p&gt;
+&lt;h2 id=&quot;最后&quot;&gt;&lt;a href=&quot;#最后&quot; class=&quot;headerlink&quot; title=&quot;最后&quot;&gt;&lt;/a&gt;最后&lt;/h2&gt;&lt;p&gt;通过以上的演讲，我相信大家可以明白HTML的作用以及HTML５它的优点。HTML对于初学网页设计的入门者来说，可能觉得有点难，其实我刚学也是挺吃力的，通过看视频学习。但是当自己做的时候就感觉有些难。所以建议大家多动手！虽然HTML５对于初学网页设计的人来说可能有点难。但是比较之前的其他版本，这已经是最简单，并且最容易上手的了。由于时间关系，我的演讲就到这里。希望今天的演讲对大家有所帮助，谢谢！！&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span style=&quot;font-size:12px&quot;&gt;本文标题: &lt;a href=&quot;http://itxiehui.github.io/2016/04/15/H5的前世今生/&quot;&gt;H5的前世今生&lt;/a&gt;&lt;br&gt;文章作者: &lt;a href=&quot;http://itxiehui.github.io/&quot;&gt;劳土铸&lt;/a&gt;&lt;br&gt;许可协议: &lt;img alt=&quot;知识共享许可协议&quot; style=&quot;border-width:0&quot; src=&quot;https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;http://creativecommons.org/licenses/by-nc-sa/4.0/&quot; target=&quot;_blank&quot;&gt;©署名-非商用-相同方式共享 4.0&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;可能有人接触过HTML，但我相信大部分的人可能只是听说过HTML，但是却不知道它是干嘛的。甚至有些人可能连它的名字都没有听说过。而我接下来的演讲就是关于HTML５，我在网上收集并整理了一份关于HTML５的资料，希望能让大家对HTML５有一种更全面，更具体的了解。&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="周四分享" scheme="http://itxiehui.github.io/tags/%E5%91%A8%E5%9B%9B%E5%88%86%E4%BA%AB/"/>
+    
+      <category term="美工" scheme="http://itxiehui.github.io/tags/%E7%BE%8E%E5%B7%A5/"/>
+    
+      <category term="HTML" scheme="http://itxiehui.github.io/tags/HTML/"/>
+    
+  </entry>
   
   <entry>
     <title>Toolbar的使用</title>
@@ -56,33 +234,6 @@
       <category term="编程" scheme="http://itxiehui.github.io/tags/%E7%BC%96%E7%A8%8B/"/>
     
       <category term="Android" scheme="http://itxiehui.github.io/tags/Android/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>计算机是如何存储数据的？（二）</title>
-    <link href="http://itxiehui.github.io/2016/04/11/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%98%AF%E5%A6%82%E4%BD%95%E5%AD%98%E5%82%A8%E6%95%B0%E6%8D%AE%E7%9A%84%EF%BC%9F%EF%BC%88%E4%BA%8C%EF%BC%89/"/>
-    <id>http://itxiehui.github.io/2016/04/11/计算机是如何存储数据的？（二）/</id>
-    <published>2016-04-11T12:51:37.000Z</published>
-    <updated>2016-04-12T12:42:25.021Z</updated>
-    
-    <content type="html">&lt;p&gt;前面我们讲到我们通过将现实世界的数据与计算机中的 “0”、”1”串形成联系，从而将数据保存到计算机中。我们还讲到整数保存的几种方式：无符号表示法、符号加绝对值表示法和二进制补码表示法。&lt;/p&gt;
-&lt;p&gt;现实世界并不那么完整，所以小数登场了。为了保存小数，我们得费一些脑力。因为小数由三部分组成：整数部分、小数点、小数部分。&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;p&gt;//TODO 正文&lt;/p&gt;
-&lt;hr&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;span style=&quot;font-size:12px&quot;&gt;本文标题: &lt;a href=&quot;http://itxiehui.github.io/2016/04/11/计算机是如何存储数据的？（二）/&quot;&gt;计算机是如何存储数据的？（二）&lt;/a&gt;&lt;br&gt;文章作者: &lt;a href=&quot;http://itxiehui.github.io/&quot;&gt;IT协会知识库&lt;/a&gt;&lt;br&gt;许可协议: &lt;img alt=&quot;知识共享许可协议&quot; style=&quot;border-width:0&quot; src=&quot;https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;http://creativecommons.org/licenses/by-nc-sa/4.0/&quot; target=&quot;_blank&quot;&gt;©署名-非商用-相同方式共享 4.0&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;前面我们讲到我们通过将现实世界的数据与计算机中的 “0”、”1”串形成联系，从而将数据保存到计算机中。我们还讲到整数保存的几种方式：无符号表示法、符号加绝对值表示法和二进制补码表示法。&lt;/p&gt;
-&lt;p&gt;现实世界并不那么完整，所以小数登场了。为了保存小数，我们得费一些脑力。因为小数由三部分组成：整数部分、小数点、小数部分。&lt;/p&gt;
-    
-    </summary>
-    
     
   </entry>
   

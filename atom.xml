@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://itxiehui.github.io/"/>
-  <updated>2016-04-22T07:29:47.746Z</updated>
+  <updated>2016-04-22T07:31:21.996Z</updated>
   <id>http://itxiehui.github.io/</id>
   
   <author>
@@ -20,14 +20,17 @@
     <link href="http://itxiehui.github.io/2016/04/22/%E5%A6%82%E4%BD%95%E5%B0%86FTP%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%9B%BA%E5%AE%9A%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9A%84%E7%94%B5%E8%84%91%EF%BC%9F/"/>
     <id>http://itxiehui.github.io/2016/04/22/如何将FTP服务器固定到自己的电脑？/</id>
     <published>2016-04-22T07:28:28.000Z</published>
-    <updated>2016-04-22T07:29:47.746Z</updated>
+    <updated>2016-04-22T07:31:21.996Z</updated>
     
     <content type="html">&lt;h3 id=&quot;什么是FTP服务器呢？&quot;&gt;&lt;a href=&quot;#什么是FTP服务器呢？&quot; class=&quot;headerlink&quot; title=&quot;什么是FTP服务器呢？&quot;&gt;&lt;/a&gt;什么是FTP服务器呢？&lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;FTP服务器（File Transfer Protocol Server）是在互联网上提供文件存储和访问服务的计算机，它们依照FTP协议提供服务。 FTP是File Transfer Protocol(文件传输协议)。顾名思义，就是专门用来传输文件的协议。简单地说，支持FTP协议的服务器就是FTP服务器。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;p&gt;那么，如何将FTP服务器固定到自己的电脑？就像自己的文件夹一样&lt;/p&gt;
-&lt;h4 id=&quot;首先，你要知道可用的FTP服务器的地址（形如：ftp-127-0-0-1），还有访问需要的用户名和密码。&quot;&gt;&lt;a href=&quot;#首先，你要知道可用的FTP服务器的地址（形如：ftp-127-0-0-1），还有访问需要的用户名和密码。&quot; class=&quot;headerlink&quot; title=&quot;首先，你要知道可用的FTP服务器的地址（形如：ftp://127.0.0.1），还有访问需要的用户名和密码。&quot;&gt;&lt;/a&gt;首先，你要知道可用的FTP服务器的地址（形如：&lt;a href=&quot;ftp://127.0.0.1/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;ftp://127.0.0.1&lt;/a&gt;），还有访问需要的用户名和密码。&lt;/h4&gt;&lt;h4 id=&quot;在自己的电脑上打开“我的电脑”，然后再空白处右击，选择“创建一个网络位置”&quot;&gt;&lt;a href=&quot;#在自己的电脑上打开“我的电脑”，然后再空白处右击，选择“创建一个网络位置”&quot; class=&quot;headerlink&quot; title=&quot;在自己的电脑上打开“我的电脑”，然后再空白处右击，选择“创建一个网络位置”&quot;&gt;&lt;/a&gt;在自己的电脑上打开“我的电脑”，然后再空白处右击，选择“创建一个网络位置”&lt;/h4&gt;&lt;p&gt;&lt;img src=&quot;http://ww3.sinaimg.cn/mw690/006rmJyDgw1f35ibyv2djj30mb0gcaer.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h4 id=&quot;首先，你要知道可用的FTP服务器的地址（形如：ftp-127-0-0-1），还有访问需要的用户名和密码。&quot;&gt;&lt;a href=&quot;#首先，你要知道可用的FTP服务器的地址（形如：ftp-127-0-0-1），还有访问需要的用户名和密码。&quot; class=&quot;headerlink&quot; title=&quot;首先，你要知道可用的FTP服务器的地址（形如：ftp://127.0.0.1），还有访问需要的用户名和密码。&quot;&gt;&lt;/a&gt;首先，你要知道可用的FTP服务器的地址（形如：&lt;a href=&quot;ftp://127.0.0.1/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;ftp://127.0.0.1&lt;/a&gt;），还有访问需要的用户名和密码。&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;PS : &lt;strong&gt;ftp://202.192.72.238&lt;/strong&gt; 是我们协会的FTP服务器，里面放了一些常用的软件和电子书资源，用户名和密码请到会员群获取。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&quot;在自己的电脑上打开“我的电脑”，然后再空白处右击，选择“创建一个网络位置”&quot;&gt;&lt;a href=&quot;#在自己的电脑上打开“我的电脑”，然后再空白处右击，选择“创建一个网络位置”&quot; class=&quot;headerlink&quot; title=&quot;在自己的电脑上打开“我的电脑”，然后再空白处右击，选择“创建一个网络位置”&quot;&gt;&lt;/a&gt;在自己的电脑上打开“我的电脑”，然后再空白处右击，选择“创建一个网络位置”&lt;/h4&gt;&lt;p&gt;&lt;img src=&quot;http://ww3.sinaimg.cn/mw690/006rmJyDgw1f35ibyv2djj30mb0gcaer.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;h4 id=&quot;接着点击“下一步”&quot;&gt;&lt;a href=&quot;#接着点击“下一步”&quot; class=&quot;headerlink&quot; title=&quot;接着点击“下一步”&quot;&gt;&lt;/a&gt;接着点击“下一步”&lt;/h4&gt;&lt;p&gt;&lt;img src=&quot;http://ww1.sinaimg.cn/mw690/006rmJyDgw1f35ibz7wm4j30gx0f00ud.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;h4 id=&quot;再接着“选择自定义网络位置”&quot;&gt;&lt;a href=&quot;#再接着“选择自定义网络位置”&quot; class=&quot;headerlink&quot; title=&quot;再接着“选择自定义网络位置”&quot;&gt;&lt;/a&gt;再接着“选择自定义网络位置”&lt;/h4&gt;&lt;p&gt;&lt;img src=&quot;http://ww1.sinaimg.cn/mw690/006rmJyDgw1f35ibzl39gj30gx0f0gmr.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;h4 id=&quot;再接着输入可用的ftp服务器地址（形如：ftp-127-0-0-1）-然后“下一步”&quot;&gt;&lt;a href=&quot;#再接着输入可用的ftp服务器地址（形如：ftp-127-0-0-1）-然后“下一步”&quot; class=&quot;headerlink&quot; title=&quot;再接着输入可用的ftp服务器地址（形如：ftp://127.0.0.1）,然后“下一步”&quot;&gt;&lt;/a&gt;再接着输入可用的ftp服务器地址（形如：&lt;a href=&quot;ftp://127.0.0.1/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;ftp://127.0.0.1&lt;/a&gt;）,然后“下一步”&lt;/h4&gt;&lt;p&gt;&lt;img src=&quot;http://ww2.sinaimg.cn/mw690/006rmJyDgw1f35ic00ri8j30gx0f0dhf.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
@@ -36,9 +39,6 @@
 &lt;h4 id=&quot;点击“完成”&quot;&gt;&lt;a href=&quot;#点击“完成”&quot; class=&quot;headerlink&quot; title=&quot;点击“完成”&quot;&gt;&lt;/a&gt;点击“完成”&lt;/h4&gt;&lt;p&gt;&lt;img src=&quot;http://ww2.sinaimg.cn/mw690/006rmJyDgw1f35ic34m8fj30gx0f0dh9.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;h4 id=&quot;再接着会弹出一个登陆窗口，你只要输入正确的密码就可以登陆访问资源了。在个人电脑建议保存密码，公用的就不要了。&quot;&gt;&lt;a href=&quot;#再接着会弹出一个登陆窗口，你只要输入正确的密码就可以登陆访问资源了。在个人电脑建议保存密码，公用的就不要了。&quot; class=&quot;headerlink&quot; title=&quot;再接着会弹出一个登陆窗口，你只要输入正确的密码就可以登陆访问资源了。在个人电脑建议保存密码，公用的就不要了。&quot;&gt;&lt;/a&gt;再接着会弹出一个登陆窗口，你只要输入正确的密码就可以登陆访问资源了。在个人电脑建议保存密码，公用的就不要了。&lt;/h4&gt;&lt;p&gt;&lt;img src=&quot;http://ww4.sinaimg.cn/mw690/006rmJyDgw1f35ic3id6xj30m80gedis.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;h4 id=&quot;之后你的电脑就会多了一个网络位置了，相当于一个在网上的硬盘！！&quot;&gt;&lt;a href=&quot;#之后你的电脑就会多了一个网络位置了，相当于一个在网上的硬盘！！&quot; class=&quot;headerlink&quot; title=&quot;之后你的电脑就会多了一个网络位置了，相当于一个在网上的硬盘！！&quot;&gt;&lt;/a&gt;之后你的电脑就会多了一个网络位置了，相当于一个在网上的硬盘！！&lt;/h4&gt;&lt;p&gt;&lt;img src=&quot;http://ww1.sinaimg.cn/mw690/006rmJyDgw1f35ic3wr4vj30m80iigq4.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;PS : &lt;strong&gt;ftp://202.192.72.238&lt;/strong&gt; 是我们协会的FTP服务器，里面放了一些常用的软件和电子书资源，用户名和密码请到会员群获取。&lt;/p&gt;
-&lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;span style=&quot;font-size:12px&quot;&gt;本文标题: &lt;a href=&quot;http://itxiehui.github.io/2016/04/22/如何将FTP服务器固定到自己的电脑？/&quot;&gt;如何将FTP服务器固定到自己的电脑？&lt;/a&gt;&lt;br&gt;文章作者: &lt;a href=&quot;http://linlshare.github.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;林炜富&lt;/a&gt;&lt;br&gt;许可协议: &lt;img alt=&quot;知识共享许可协议&quot; style=&quot;border-width:0&quot; src=&quot;https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;http://creativecommons.org/licenses/by-nc-sa/4.0/&quot; target=&quot;_blank&quot;&gt;©署名-非商用-相同方式共享 4.0&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
